@@ -2,4 +2,20 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "kh.manulife.dot.sit",
                "sha256_cert_fingerprints": ["94:CB:EE:99:58:43:AE:B5:1F:F1:AB:D6:EC:47:90:6D:05:AC:EA:95:79:A1:FD:74:AC:5B:89:51:C8:E6:8A:23"] }
-}]
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "kh.manulife.dot.uat",
+               "sha256_cert_fingerprints": ["94:CB:EE:99:58:43:AE:B5:1F:F1:AB:D6:EC:47:90:6D:05:AC:EA:95:79:A1:FD:74:AC:5B:89:51:C8:E6:8A:23"] }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "kh.manulife.dotk",
+               "sha256_cert_fingerprints": ["94:CB:EE:99:58:43:AE:B5:1F:F1:AB:D6:EC:47:90:6D:05:AC:EA:95:79:A1:FD:74:AC:5B:89:51:C8:E6:8A:23"] }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "kh.manulife.dot",
+               "sha256_cert_fingerprints": ["94:CB:EE:99:58:43:AE:B5:1F:F1:AB:D6:EC:47:90:6D:05:AC:EA:95:79:A1:FD:74:AC:5B:89:51:C8:E6:8A:23"] }
+}
+]
