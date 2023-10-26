@@ -7,16 +7,16 @@
 {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "kh.manulife.dot.uat",
-               "sha256_cert_fingerprints": ["94:CB:EE:99:58:43:AE:B5:1F:F1:AB:D6:EC:47:90:6D:05:AC:EA:95:79:A1:FD:74:AC:5B:89:51:C8:E6:8A:23"] }
+               "sha256_cert_fingerprints": ["94:CB:EE:99:58:43:AE:B5:1F:F1:AB:D6:EC:47:90:6D:05:AC:EA:95:79:A1:FD:74:AC:5B:89:51:C8:E6:8A:23", "7D:4E:01:7E:9C:18:B4:30:D6:12:5B:80:45:4A:34:33:A6:26:34:DA:FB:11:CE:6F:EC:6F:BB:83:5D:72:CA:C8"] }
 },
 {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "kh.manulife.dotk",
-               "sha256_cert_fingerprints": ["94:CB:EE:99:58:43:AE:B5:1F:F1:AB:D6:EC:47:90:6D:05:AC:EA:95:79:A1:FD:74:AC:5B:89:51:C8:E6:8A:23"] }
+               "sha256_cert_fingerprints": ["94:CB:EE:99:58:43:AE:B5:1F:F1:AB:D6:EC:47:90:6D:05:AC:EA:95:79:A1:FD:74:AC:5B:89:51:C8:E6:8A:23", "7D:4E:01:7E:9C:18:B4:30:D6:12:5B:80:45:4A:34:33:A6:26:34:DA:FB:11:CE:6F:EC:6F:BB:83:5D:72:CA:C8"] }
 },
 {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "kh.manulife.dot",
-               "sha256_cert_fingerprints": ["94:CB:EE:99:58:43:AE:B5:1F:F1:AB:D6:EC:47:90:6D:05:AC:EA:95:79:A1:FD:74:AC:5B:89:51:C8:E6:8A:23"] }
+               "sha256_cert_fingerprints": ["94:CB:EE:99:58:43:AE:B5:1F:F1:AB:D6:EC:47:90:6D:05:AC:EA:95:79:A1:FD:74:AC:5B:89:51:C8:E6:8A:23", "7D:4E:01:7E:9C:18:B4:30:D6:12:5B:80:45:4A:34:33:A6:26:34:DA:FB:11:CE:6F:EC:6F:BB:83:5D:72:CA:C8"] }
 }
 ]
